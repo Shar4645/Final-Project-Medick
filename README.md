@@ -1,3 +1,3 @@
 #Final-Project-Medick
 this is my final project.
-#azure link: https://yellow-meadow-06cd7a210.5.azurestaticapps.net
+#azure link: https://white-beach-0c79a4710.5.azurestaticapps.net/
